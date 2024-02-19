@@ -1,4 +1,4 @@
-module github.com/go-qbit/multistate
+module github.com/USATUKirill96/multistate
 
 go 1.20
 
