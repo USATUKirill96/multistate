@@ -3,7 +3,7 @@ package multistate
 import (
 	"context"
 
-	"github.com/go-qbit/multistate/expr"
+	"github.com/USATUKirill96/multistate/expr"
 )
 
 type action struct {

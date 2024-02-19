@@ -7,7 +7,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/go-qbit/multistate/expr"
+	"github.com/USATUKirill96/multistate/expr"
 )
 
 var reStateAction = regexp.MustCompile(`^[a-z\d_-]+$`)

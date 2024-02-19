@@ -6,8 +6,8 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/go-qbit/multistate"
-	. "github.com/go-qbit/multistate/expr"
+	"github.com/USATUKirill96/multistate"
+	. "github.com/USATUKirill96/multistate/expr"
 )
 
 type testEntity struct {
